@@ -1,4 +1,3 @@
-If you want the README to be **the same structure but rewritten with different wording** (useful to avoid looking copied), you can use this version:
 
 # 🚀 HireMatch – Intelligent Resume & Job Description Evaluation System
 
