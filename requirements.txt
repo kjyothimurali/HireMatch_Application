@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+tokenizers
+safetensors
+pdfplumber
+pandas
+numpy
+scikit-learn
